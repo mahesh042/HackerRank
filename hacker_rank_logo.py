@@ -1,5 +1,4 @@
 #text alignment
-import math
 thickness = int(input())
 if thickness%2 !=0:
     c = 'H'
